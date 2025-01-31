@@ -1,1 +1,1 @@
-![Descripción del GIF](preview.gif)
+<img src="preview.gif" width="300" />
